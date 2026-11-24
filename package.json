@@ -1,0 +1,14 @@
+{
+  "name": "kuima-security-services-node13",
+  "version": "6.1.0",
+  "description": "Node.js v13.14.0 compatible full-stack website for Kuima Security Services Ltd (PNG)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.3",
+    "express-session": "^1.17.3"
+  }
+}
